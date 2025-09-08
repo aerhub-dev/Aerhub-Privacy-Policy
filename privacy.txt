@@ -1,9 +1,64 @@
-Privacy Policy
+Aerway Privacy Policy
+Effective Date: September 7, 2025
 
-This app does not collect, store, or share any personal data.
+Introduction
+Aerway ("we," "our," or "us") values your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application ("App").
 
-No user information is transmitted to us or any third parties.
+By using Aerway, you agree to the terms outlined in this Privacy Policy.
 
-If this changes in future updates, we will update this privacy policy accordingly.
+Information We Collect
+We may collect the following types of information:
 
-Contact: aerhub.dev@gmail.com
+Personal Information: such as your name, email address, profile photo, and account details when you create an account.
+
+User Content: including posts, comments, photos, videos, and messages you upload or share within the App.
+
+Device Information: such as device type, operating system, unique identifiers, and usage data.
+
+Location Information: if you grant permission, we may collect location data to enhance features such as events and marketplace listings.
+
+How We Use Your Information
+We use the information we collect to:
+
+Provide, maintain, and improve the App and its features.
+
+Facilitate communication between users.
+
+Personalize your experience (e.g., recommended content, profile display).
+
+Ensure the security of our services.
+
+Comply with legal obligations.
+
+How We Share Your Information
+We do not sell your personal information. We may share your information in the following ways:
+
+With other users, when you voluntarily share content (posts, listings, comments, etc.).
+
+With trusted third-party service providers who assist us in operating the App (e.g., cloud storage, analytics).
+
+When required by law or to protect our rights, safety, or property.
+
+Data Retention
+We retain your information for as long as your account is active or as needed to provide services. You may request deletion of your account and associated data at any time.
+
+Your Choices
+
+Profile and Content: You can manage and delete your posts, comments, and uploaded media through the App.
+
+Device Settings: You can control permissions such as location access in your device’s settings.
+
+Account Deletion: You may request account deletion by contacting us at [Insert Contact Email].
+
+Security
+We implement reasonable safeguards to protect your information. However, no method of transmission or storage is 100% secure.
+
+Children’s Privacy
+Aerway is not intended for individuals under 13 years of age. We do not knowingly collect information from children.
+
+Changes to This Policy
+We may update this Privacy Policy from time to time. Changes will be posted within the App, and continued use of Aerway indicates acceptance of the updated policy.
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+aerhub.dev@gmail.com
